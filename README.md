@@ -13,8 +13,7 @@ A multi-agent AI system that transforms public domain stories into new settings 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd story-reimagining-system
+   git clone https://github.com/iUnnati31/AI_StoryTeller.git
    ```
 
 2. **Create and activate virtual environment**:
