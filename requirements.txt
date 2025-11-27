@@ -1,0 +1,8 @@
+agno>=2.3.2
+fastapi>=0.122.0
+openai>=2.8.1
+pydantic>=2.12.4
+pytest>=9.0.1
+python-dotenv>=1.2.1
+sqlalchemy>=2.0.44
+uvicorn>=0.38.0
